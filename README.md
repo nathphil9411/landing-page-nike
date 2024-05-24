@@ -30,8 +30,7 @@ The Nike Landing Page project is a single-page application that demonstrates my 
 - **HTML5:** Markup language used to structure the content.
 - **CSS3:** Stylesheet language used for layout, design, and responsiveness.
 - **JavaScript:** Programming language used to implement interactive features and functionalities.
-- **Bootstrap (optional):** CSS framework used for responsive design and layout (if applicable).
-- **FontAwesome:** Icon library for incorporating vector icons and social logos.
+- **Tailwind(optional):** CSS framework used for responsive design and layout (if applicable).
 
 ## Installation
 
